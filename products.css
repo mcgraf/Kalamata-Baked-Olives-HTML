@@ -34,14 +34,19 @@
   flex-direction: row;
   justify-content: center;
 }
+.products-nav12 {
+  text-decoration: none;
+}
 .products-nav22 {
   margin-left: var(--dl-space-space-unit);
 }
 .products-nav32 {
   margin-left: var(--dl-space-space-unit);
+  text-decoration: none;
 }
 .products-nav42 {
   margin-left: var(--dl-space-space-unit);
+  text-decoration: none;
 }
 .products-burger-menu {
   display: none;
@@ -337,14 +342,19 @@
   align-items: center;
   flex-direction: row;
 }
+.products-nav122 {
+  text-decoration: none;
+}
 .products-nav222 {
   margin-left: var(--dl-space-space-unit);
 }
 .products-nav322 {
   margin-left: var(--dl-space-space-unit);
+  text-decoration: none;
 }
 .products-nav422 {
   margin-left: var(--dl-space-space-unit);
+  text-decoration: none;
 }
 .products-separator {
   flex: 0 0 auto;
