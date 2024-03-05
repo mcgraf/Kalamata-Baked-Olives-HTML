@@ -194,7 +194,7 @@
   background-color: transparent;
   background-image: url("https://images.unsplash.com/photo-1534099946341-34fe5ef39eef?ixid=M3w5MTMyMXwwfDF8c2VhcmNofDF8fG9saXZlJTIwZ3xlbnwwfHx8fDE3MDg1MjQxNTl8MA&ixlib=rb-4.0.3&w=1500");
 }
-.home-container1 {
+.home-container01 {
   gap: var(--dl-space-space-oneandhalfunits);
   display: flex;
   align-items: center;
@@ -237,7 +237,7 @@
   padding-bottom: var(--dl-space-space-fourunits);
   justify-content: flex-start;
 }
-.home-container2 {
+.home-container02 {
   display: flex;
   align-items: center;
   flex-direction: column;
@@ -250,7 +250,7 @@
   font-size: 18px;
   text-align: center;
 }
-.home-container3 {
+.home-container03 {
   width: 100%;
   display: grid;
   grid-gap: var(--dl-space-space-oneandhalfunits);
@@ -320,7 +320,7 @@
 .home-text55 {
   text-transform: lowercase;
 }
-.home-container4 {
+.home-container04 {
   flex: 0 0 auto;
   width: 700px;
   height: 100px;
@@ -358,7 +358,7 @@
   flex-direction: row;
   padding-bottom: var(--dl-space-space-fourunits);
 }
-.home-container5 {
+.home-container05 {
   display: flex;
   max-width: 35%;
   align-items: flex-start;
@@ -371,7 +371,7 @@
 .home-text64 {
   text-align: left;
 }
-.home-container6 {
+.home-container06 {
   gap: var(--dl-space-space-oneandhalfunits);
   display: flex;
   align-items: flex-start;
@@ -388,34 +388,42 @@
   justify-content: center;
   background-color: #fbf9ef;
 }
-.home-text67 {
-  top: 90px;
-  left: 60px;
-  height: 81px;
-  position: absolute;
-  font-size: 3rem;
-  align-self: flex-start;
-  text-align: center;
-  font-family: "Cabin";
+.home-container07 {
+  flex: 0 0 auto;
+  width: 200px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
 }
-.home-text68 {
-  top: 150px;
+.home-text67 {
+  top: 50px;
   left: 393px;
   position: absolute;
   text-align: center;
   font-family: "Cabin";
 }
-.home-text69 {
+.home-text68 {
   top: 100px;
   left: 393px;
   position: absolute;
   text-align: center;
   font-family: "Cabin";
 }
-.home-text70 {
-  top: 50px;
+.home-text69 {
+  top: 150px;
   left: 393px;
   position: absolute;
+  text-align: center;
+  font-family: "Cabin";
+}
+.home-text70 {
+  top: 90px;
+  left: 60px;
+  height: 81px;
+  position: absolute;
+  font-size: 3rem;
+  align-self: flex-start;
   text-align: center;
   font-family: "Cabin";
 }
@@ -435,7 +443,7 @@
   border-right-width: 0px;
   border-bottom-width: 0px;
 }
-.home-container7 {
+.home-container08 {
   gap: var(--dl-space-space-unit);
   display: flex;
   max-width: var(--dl-size-size-maxwidth);
@@ -477,7 +485,7 @@
   border-left-width: 0px;
   border-right-width: 0px;
 }
-.home-container8 {
+.home-container09 {
   flex: 0 0 auto;
   width: 100%;
   display: flex;
@@ -509,7 +517,7 @@
   .home-hero1 {
     flex-direction: column;
   }
-  .home-container1 {
+  .home-container01 {
     align-items: center;
     margin-right: 0px;
     margin-bottom: var(--dl-space-space-twounits);
@@ -572,7 +580,7 @@
     padding-left: var(--dl-space-space-unit);
     padding-right: var(--dl-space-space-unit);
   }
-  .home-container3 {
+  .home-container03 {
     grid-template-columns: 1fr;
   }
   .home-banner1 {
@@ -582,7 +590,7 @@
   .home-faq1 {
     flex-direction: column;
   }
-  .home-container5 {
+  .home-container05 {
     max-width: 100%;
     align-self: center;
     align-items: center;
@@ -606,7 +614,7 @@
     margin-right: 0px;
     margin-bottom: var(--dl-space-space-oneandhalfunits);
   }
-  .home-container8 {
+  .home-container09 {
     align-items: center;
     flex-direction: column;
     justify-content: space-between;
@@ -628,7 +636,7 @@
     padding-right: var(--dl-space-space-unit);
     padding-bottom: var(--dl-space-space-twounits);
   }
-  .home-container1 {
+  .home-container01 {
     margin-bottom: var(--dl-space-space-unit);
   }
   .home-features1 {
@@ -656,7 +664,7 @@
     margin-top: var(--dl-space-space-oneandhalfunits);
     margin-bottom: var(--dl-space-space-oneandhalfunits);
   }
-  .home-container8 {
+  .home-container09 {
     align-items: center;
     flex-direction: column;
     justify-content: space-between;
