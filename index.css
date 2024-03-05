@@ -393,25 +393,25 @@
   width: 200px;
   display: flex;
   align-items: center;
-  flex-direction: column;
+  flex-direction: row;
   justify-content: center;
 }
 .home-text67 {
-  top: 50px;
-  left: 393px;
-  position: absolute;
-  text-align: center;
-  font-family: "Cabin";
-}
-.home-text68 {
   top: 100px;
   left: 393px;
   position: absolute;
   text-align: center;
   font-family: "Cabin";
 }
-.home-text69 {
+.home-text68 {
   top: 150px;
+  left: 393px;
+  position: absolute;
+  text-align: center;
+  font-family: "Cabin";
+}
+.home-text69 {
+  top: 50px;
   left: 393px;
   position: absolute;
   text-align: center;
