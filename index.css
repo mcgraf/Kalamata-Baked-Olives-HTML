@@ -389,55 +389,6 @@
   background-color: #fbf9ef;
 }
 .home-text67 {
-  max-width: var(--dl-size-size-maxwidth);
-  margin-top: var(--dl-space-space-twounits);
-  text-align: center;
-  margin-bottom: var(--dl-space-space-twounits);
-}
-.home-text71 {
-  left: 553px;
-  bottom: 40px;
-  position: absolute;
-  font-family: "Cabin";
-}
-.home-icon10 {
-  top: 163px;
-  left: 498px;
-  width: 47px;
-  height: 39px;
-  position: absolute;
-}
-.home-icon12 {
-  top: 103px;
-  left: 499px;
-  width: 47px;
-  height: 39px;
-  position: absolute;
-}
-.home-link {
-  display: contents;
-}
-.home-text72 {
-  top: 55px;
-  left: 546px;
-  position: absolute;
-  font-family: "Cabin";
-  text-decoration: none;
-}
-.home-text73 {
-  top: 112px;
-  left: 550px;
-  position: absolute;
-  font-family: "Cabin";
-}
-.home-icon14 {
-  top: 49px;
-  left: 497px;
-  width: 47px;
-  height: 39px;
-  position: absolute;
-}
-.home-text74 {
   top: 90px;
   left: 60px;
   height: 81px;
@@ -519,17 +470,17 @@
   flex-direction: row;
   justify-content: space-between;
 }
-.home-icon16 {
+.home-icon10 {
   width: 24px;
   height: 24px;
   margin-right: var(--dl-space-space-twounits);
 }
-.home-icon18 {
+.home-icon12 {
   width: 24px;
   height: 24px;
   margin-right: var(--dl-space-space-twounits);
 }
-.home-icon20 {
+.home-icon14 {
   width: 24px;
   height: 24px;
 }
@@ -557,9 +508,6 @@
     text-align: center;
     padding-left: var(--dl-space-space-threeunits);
     padding-right: var(--dl-space-space-threeunits);
-  }
-  .home-text67 {
-    max-width: 100%;
   }
 }
 @media(max-width: 767px) {
@@ -627,10 +575,6 @@
     padding-left: var(--dl-space-space-twounits);
     padding-right: var(--dl-space-space-twounits);
   }
-  .home-text67 {
-    padding-left: var(--dl-space-space-unit);
-    padding-right: var(--dl-space-space-unit);
-  }
   .home-footer1 {
     padding-left: var(--dl-space-space-twounits);
     padding-right: var(--dl-space-space-twounits);
@@ -646,7 +590,7 @@
     flex-direction: column;
     justify-content: space-between;
   }
-  .home-text75 {
+  .home-text68 {
     margin-bottom: var(--dl-space-space-oneandhalfunits);
   }
 }
@@ -696,7 +640,7 @@
     flex-direction: column;
     justify-content: space-between;
   }
-  .home-text75 {
+  .home-text68 {
     text-align: center;
     margin-bottom: var(--dl-space-space-oneandhalfunits);
   }
