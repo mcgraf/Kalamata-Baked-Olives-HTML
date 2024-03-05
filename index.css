@@ -402,16 +402,22 @@
   top: 150px;
   left: 393px;
   position: absolute;
+  text-align: center;
+  font-family: "Cabin";
 }
 .home-text69 {
   top: 100px;
   left: 393px;
   position: absolute;
+  text-align: center;
+  font-family: "Cabin";
 }
 .home-text70 {
   top: 50px;
   left: 393px;
   position: absolute;
+  text-align: center;
+  font-family: "Cabin";
 }
 .home-footer {
   flex: 0 0 auto;
