@@ -385,7 +385,7 @@
   position: relative;
   align-items: center;
   flex-direction: column;
-  justify-content: space-between;
+  justify-content: center;
   background-color: #fbf9ef;
 }
 .home-text67 {
@@ -397,6 +397,21 @@
   align-self: flex-start;
   text-align: center;
   font-family: "Cabin";
+}
+.home-text68 {
+  top: 150px;
+  left: 393px;
+  position: absolute;
+}
+.home-text69 {
+  top: 100px;
+  left: 393px;
+  position: absolute;
+}
+.home-text70 {
+  top: 50px;
+  left: 393px;
+  position: absolute;
 }
 .home-footer {
   flex: 0 0 auto;
@@ -590,7 +605,7 @@
     flex-direction: column;
     justify-content: space-between;
   }
-  .home-text68 {
+  .home-text71 {
     margin-bottom: var(--dl-space-space-oneandhalfunits);
   }
 }
@@ -640,7 +655,7 @@
     flex-direction: column;
     justify-content: space-between;
   }
-  .home-text68 {
+  .home-text71 {
     text-align: center;
     margin-bottom: var(--dl-space-space-oneandhalfunits);
   }
