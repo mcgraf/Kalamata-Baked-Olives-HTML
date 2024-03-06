@@ -466,6 +466,21 @@
 .home-container11 {
   display: contents;
 }
+.home-banner3 {
+  width: 100%;
+  display: flex;
+  padding: var(--dl-space-space-threeunits);
+  align-items: center;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.home-container12 {
+  width: 479px;
+  height: 248px;
+}
+.home-container13 {
+  display: contents;
+}
 .home-footer {
   flex: 0 0 auto;
   width: 100%;
@@ -482,7 +497,7 @@
   border-right-width: 0px;
   border-bottom-width: 0px;
 }
-.home-container12 {
+.home-container14 {
   gap: var(--dl-space-space-unit);
   display: flex;
   max-width: var(--dl-size-size-maxwidth);
@@ -524,7 +539,7 @@
   border-left-width: 0px;
   border-right-width: 0px;
 }
-.home-container13 {
+.home-container15 {
   flex: 0 0 auto;
   width: 100%;
   display: flex;
@@ -647,6 +662,10 @@
     padding-left: var(--dl-space-space-twounits);
     padding-right: var(--dl-space-space-twounits);
   }
+  .home-banner3 {
+    padding-left: var(--dl-space-space-twounits);
+    padding-right: var(--dl-space-space-twounits);
+  }
   .home-footer1 {
     padding-left: var(--dl-space-space-twounits);
     padding-right: var(--dl-space-space-twounits);
@@ -657,7 +676,7 @@
     margin-right: 0px;
     margin-bottom: var(--dl-space-space-oneandhalfunits);
   }
-  .home-container13 {
+  .home-container15 {
     align-items: center;
     flex-direction: column;
     justify-content: space-between;
@@ -706,6 +725,12 @@
     padding-right: var(--dl-space-space-unit);
     padding-bottom: var(--dl-space-space-twounits);
   }
+  .home-banner3 {
+    padding-top: var(--dl-space-space-twounits);
+    padding-left: var(--dl-space-space-unit);
+    padding-right: var(--dl-space-space-unit);
+    padding-bottom: var(--dl-space-space-twounits);
+  }
   .home-footer1 {
     padding: var(--dl-space-space-unit);
   }
@@ -713,7 +738,7 @@
     margin-top: var(--dl-space-space-oneandhalfunits);
     margin-bottom: var(--dl-space-space-oneandhalfunits);
   }
-  .home-container13 {
+  .home-container15 {
     align-items: center;
     flex-direction: column;
     justify-content: space-between;
