@@ -414,10 +414,10 @@
   justify-content: space-between;
 }
 .home-text67 {
-  width: 380px;
+  width: 452px;
   align-self: flex-start;
   font-family: "Cabin";
-  padding-left: var(--dl-space-space-unit);
+  padding-left: var(--dl-space-space-fiveunits);
 }
 .home-container10 {
   flex: 0 0 auto;
@@ -426,7 +426,7 @@
   display: flex;
   align-self: flex-start;
   align-items: flex-start;
-  padding-left: var(--dl-space-space-unit);
+  padding-left: var(--dl-space-space-sixunits);
   justify-content: center;
 }
 .home-icon10 {
@@ -445,7 +445,7 @@
   display: flex;
   align-self: flex-start;
   align-items: flex-start;
-  padding-left: var(--dl-space-space-unit);
+  padding-left: var(--dl-space-space-sixunits);
   justify-content: center;
 }
 .home-icon12 {
@@ -464,7 +464,7 @@
   display: flex;
   align-self: flex-start;
   align-items: flex-start;
-  padding-left: var(--dl-space-space-unit);
+  padding-left: var(--dl-space-space-sixunits);
   justify-content: center;
 }
 .home-icon14 {
