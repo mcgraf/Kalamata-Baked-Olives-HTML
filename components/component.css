@@ -1,0 +1,12 @@
+.app-component-container {
+  display: flex;
+  position: relative;
+}
+.app-component-text {
+  height: 81px;
+  position: relative;
+  font-size: 3rem;
+  align-self: flex-start;
+  text-align: center;
+  font-family: "Cabin";
+}
