@@ -414,7 +414,10 @@
   justify-content: space-between;
 }
 .home-text67 {
+  width: 380px;
+  align-self: flex-start;
   font-family: "Cabin";
+  padding-left: var(--dl-space-space-unit);
 }
 .home-container10 {
   flex: 0 0 auto;
